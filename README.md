@@ -1,11 +1,9 @@
 # PRAISE
 ## PRAISE
-PRAISE
-
 
 > PRAISE
 
-[x] PRAISE
-[x] PRAISE
-[ ] PRAISE
+- [x] PRAISE
+- [x] PRAISE
+- [ ] PRAISE
 
